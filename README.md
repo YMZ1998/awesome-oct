@@ -1,5 +1,11 @@
 # awesome-oct
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OCT-Optical%20Coherence%20Tomography-1f77b4?style=for-the-badge" alt="OCT" />
+  <img src="https://img.shields.io/badge/Scope-Research%20%26%20Clinical%20Tools-28a745?style=for-the-badge" alt="Scope" />
+  <img src="https://img.shields.io/badge/Status-Curated%20Open%20Source-ff7f0e?style=for-the-badge" alt="Status" />
+</p>
+
 A curated list of open-source projects for Optical Coherence Tomography (OCT).
 
 This repository gathers useful OCT tools for data parsing, annotation, segmentation, conversion, and visualization.
